@@ -1,0 +1,66 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: url(https://showmax.akamaized.net/e/welcome_pages/img/ZA/background/background.jpg);
+    width: 100%;
+    text-align: center;
+}
+.sign-btn{
+    position: absolute;
+    background: blueviolet;
+    color: aqua;
+    width: 80px;
+    height: 40px;
+    font-size: 15px;
+    opacity: 0.9;
+    border-radius: 2px;
+    border: 0;
+}
+.sign-btn{
+    opacity: 1;
+}
+.sub-container{
+    margin-top: 70px;
+}
+.see{
+    font-size: 80px;
+    font-weight: 700;
+    color: #fff;
+    font-family: Helvetica;
+}
+.watch{
+    font-size: 40px;
+    font-weight: 300;
+    color: white;
+    font-family: Helvetica;
+}
+
+.join-btn{
+    border: 0;
+    background: #e50914;
+    padding: 20px 80px;
+    font-size: 40px;
+    color: #fff;
+    font-family: Helvetica;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    opacity: 0.9;
+}
+.join-btn1{
+    border: 0;
+    background: #e50914;
+    padding: 20px 80px;
+    font-size: 40px;
+    color: #fff;
+    font-family: Helvetica;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    opacity: 0.9;
+}
